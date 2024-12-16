@@ -46,9 +46,9 @@
 * [Emmet (에밋 활용 안내서)](https://docs.emmet.io/abbreviations/syntax/)
 * [Markdown (마크다운 튜토리얼 사이트)](https://www.markdowntutorial.com/kr/)
 
-### 🧷 PPT
-- [Java]()
-- [MySQL]()
+### 🧷 학습 PDF
+- [JavaPDF 다운로드](https://github.com/20241010-GreenIT/Java/blob/main/Java_PDF.7z)
+- [MySQL 다운로드](https://github.com/20241010-GreenIT/MySQL/blob/main/MySQL_PPT.7z)
 - [SpringFramework]()
 - [AWS]()
 - [Git]()
