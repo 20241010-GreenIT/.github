@@ -37,13 +37,13 @@
 - [Flutter](https://github.com/20241010-GreenIT/Flutter)
 
 ### 💬 참고 사이트
-- [w3schools : IT 튜토리얼 사이트](https://www.w3schools.com/)
-- [MDN Web Docs : 웹 개발자 안내서](https://developer.mozilla.org/ko/)
-- [codingEveryBody : 프론트 학습 사이트](https://codingeverybody.kr/)
-- [mockaroo : 데이터베이스 샘플 데이터 생성 사이트](https://mockaroo.com/)
-- [CronMaker : 크론식 생성 사이트](http://www.cronmaker.com/)
-- [Regex Generator : 정규식 생성 사이트](https://regex-generator.olafneumann.org/)
-- [Emmet : 에밋 활용 가이드](https://docs.emmet.io/abbreviations/syntax/)
+- [w3schools (IT 튜토리얼 사이트)](https://www.w3schools.com/)
+- [MDN Web Docs (웹 개발자 안내서)](https://developer.mozilla.org/ko/)
+- [codingEveryBody (프론트 학습 사이트)](https://codingeverybody.kr/)
+- [mockaroo (데이터베이스 샘플 데이터 생성 사이트)](https://mockaroo.com/)
+- [CronMaker (크론식 생성 사이트)](http://www.cronmaker.com/)
+- [Regex Generator (정규식 생성 사이트)](https://regex-generator.olafneumann.org/)
+- [Emmet (에밋 활용 안내서)](https://docs.emmet.io/abbreviations/syntax/)
 
 ### 🧷 PPT
 - [Java]()
