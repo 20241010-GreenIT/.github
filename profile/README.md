@@ -8,19 +8,19 @@
 - 자격 : 정보처리기사, SQLD, 직업능력개발훈련교사 정보기술개발 3급 등
 
 ### 🎁 Learning Course
-- html/css/javascript
-- java
-- mysql
-- jsp/servlet
-- springframework
-- semi project
-- spring boot
-- react.js
-- linux - aws - docker
-- ai (chatgpt api, python ai model)
-- react native
-- flutter
-- final project
+1. html/css/javascript
+2. java
+3. mysql
+4. jsp/servlet
+5. springframework
+6. semi project
+7. spring boot
+8. react.js
+9. linux - aws - docker
+10. ai (chatgpt api, python ai model)
+11. react native
+12. flutter
+13. final project
 
 ### 🏫 Repository
 - [Front](https://github.com/20241010-GreenIT/Front)
