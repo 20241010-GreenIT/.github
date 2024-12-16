@@ -47,8 +47,11 @@
 * [Markdown (마크다운 튜토리얼 사이트)](https://www.markdowntutorial.com/kr/)
 
 ### 🧷 학습 PDF
-- [JavaPDF 다운로드](https://github.com/20241010-GreenIT/Java/blob/main/Java_PDF.7z)
-- [MySQL 다운로드](https://github.com/20241010-GreenIT/MySQL/blob/main/MySQL_PPT.7z)
-- [SpringFramework]()
-- [AWS]()
-- [Git]()
+- [GitPDF]()
+- [JavaPDF 다운로드](https://github.com/20241010-GreenIT/pdf/blob/main/Java_PDF.7z)
+- [LombokPDF 다운로드](https://github.com/20241010-GreenIT/pdf/blob/main/Lombok.pdf)
+- [MySQL 다운로드](https://github.com/20241010-GreenIT/pdf/blob/main/MySQL_PDF.7z)
+- [SpringFramework 다운로드](https://github.com/20241010-GreenIT/pdf/blob/main/Spring_PDF.7z)
+- [LinuxPDF]()
+- [DockerPDF]()
+- [AwsPDF]()
