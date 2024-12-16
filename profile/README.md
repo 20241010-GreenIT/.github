@@ -36,7 +36,7 @@
 - [ReactNative](https://github.com/20241010-GreenIT/ReactNative)
 - [Flutter](https://github.com/20241010-GreenIT/Flutter)
 
-### 💬 참고 사이트
+### 💬 참고 사이트 (Ctrl 클릭하면 새 창으로 열 수 있습니다.)
 * [w3schools (IT 튜토리얼 사이트)](https://www.w3schools.com/)
 * [MDN Web Docs (웹 개발자 안내서)](https://developer.mozilla.org/ko/)
 * [codingEveryBody (프론트 학습 사이트)](https://codingeverybody.kr/)
