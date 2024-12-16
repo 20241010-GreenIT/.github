@@ -5,6 +5,22 @@
 ### 👨‍🦳 강사소개
 - 민경태 (남)
 - 010-8725-4966
+- 자격 : 정보처리기사, SQLD, 직업능력개발훈련교사 정보기술개발 3급 등
+
+### Learning Course
+- html/css/javascript
+- java
+- mysql - database
+- jsp/servlet
+- springframework
+- semi project
+- spring boot
+- react.js
+- linux - aws - docker
+- ai (chatgpt api, python ai model)
+- react native
+- flutter
+- final project
 
 ### 🏫 Repository
 - [Front](https://github.com/20241010-GreenIT/Front)
