@@ -2,12 +2,12 @@
 
 ### 환영합니다! 여러분 모두 개발자가 되는 그 날까지 화이팅! 🏃🏃‍♂️🏃‍♀️
 
-### 👨‍🦳 강사소개
+### 🎅 강사소개
 - 민경태 (남)
 - 010-8725-4966
 - 자격 : 정보처리기사, SQLD, 직업능력개발훈련교사 정보기술개발 3급 등
 
-### Learning Course
+### 🎁 Learning Course
 - html/css/javascript
 - java
 - mysql - database
