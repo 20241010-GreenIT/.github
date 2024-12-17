@@ -51,10 +51,10 @@
 
 ### 🧷 학습 PDF
 - [GitPDF]()
-- [JavaPDF 다운로드](https://github.com/20241010-GreenIT/pdf/blob/main/Java_PDF.7z)
+- [JavaPDF 다운로드](https://github.com/20241010-GreenIT/pdf/blob/main/Java_PDF.zip)
 - [LombokPDF 다운로드](https://github.com/20241010-GreenIT/pdf/blob/main/Lombok.pdf)
-- [MySQL 다운로드](https://github.com/20241010-GreenIT/pdf/blob/main/MySQL_PDF.7z)
-- [SpringFramework 다운로드](https://github.com/20241010-GreenIT/pdf/blob/main/Spring_PDF.7z)
+- [MySQL 다운로드](https://github.com/20241010-GreenIT/pdf/blob/main/MySQL_PDF.zip)
+- [SpringFramework 다운로드](https://github.com/20241010-GreenIT/pdf/blob/main/Spring_PDF.zip)
 - [LinuxPDF]()
 - [DockerPDF]()
 - [AwsPDF]()
