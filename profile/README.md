@@ -46,6 +46,9 @@
 - [Emmet (에밋 활용 안내서)](https://docs.emmet.io/abbreviations/syntax/)
 - [Markdown (마크다운 튜토리얼 사이트)](https://www.markdowntutorial.com/kr/)
 
+### 💻 수업 영상
+- [네이버 Box](http://naver.me/xa5pOFZz)
+
 ### 🧷 학습 PDF
 - [GitPDF]()
 - [JavaPDF 다운로드](https://github.com/20241010-GreenIT/pdf/blob/main/Java_PDF.7z)
