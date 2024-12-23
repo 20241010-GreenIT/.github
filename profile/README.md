@@ -45,6 +45,7 @@
 - [Regex Generator (정규식 생성 사이트)](https://regex-generator.olafneumann.org/)
 - [Emmet (에밋 활용 안내서)](https://docs.emmet.io/abbreviations/syntax/)
 - [Markdown (마크다운 튜토리얼 사이트)](https://www.markdowntutorial.com/kr/)
+- [Logback (로그백 공식 사이트)](https://logback.qos.ch/manual/index.html/)
 
 ### 💻 수업 영상
 - [네이버 Box](http://naver.me/xa5pOFZz)
@@ -58,3 +59,8 @@
 - [LinuxPDF]()
 - [DockerPDF]()
 - [AwsPDF]()
+
+### Semi-Project
+- [공통구현사항](http://naver.me/xOxHwyWQ/)
+- A조 (김리예, 조범희, 김성율)
+- B조 (김민희, 이수정, 김재찬)
