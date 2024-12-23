@@ -62,5 +62,6 @@
 
 ### 🤝Semi-Project
 - [공통구현사항](http://naver.me/5FmSXxip)
+- [ERD작성툴](https://www.erdcloud.com/)
 - A조 (김리예, 조범희, 김성율)
 - B조 (김민희, 이수정, 김재찬)
