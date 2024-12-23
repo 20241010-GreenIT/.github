@@ -60,7 +60,7 @@
 - [DockerPDF]()
 - [AwsPDF]()
 
-### Semi-Project
-- [공통구현사항](https://mybox.naver.com/#/my/doc-viewer/bWlua3Q3OHwzNDcyNTkxNDkyNjYzMjY1MDg0fEZ8MA/https%3A%2F%2Ffiles.mybox.naver.com%2F20241010_GreenIT%2F%EC%84%B8%EB%AF%B8%ED%94%8C%EC%A0%9D_%EA%B3%B5%ED%86%B5%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD.xlsx%3Fuserid%3Dminkt78%26useridx%3D12723261%26attachment%3D2%26NDriveSvcType%3DNHN%2FND-WEB%20Ver/ndrive?resourceKey=bWlua3Q3OHwzNDcyNTkxNDUyMzA2MzIxMjEyfER8MA&downloadable=true&editable=true)
+### 🤝Semi-Project
+- [공통구현사항](http://naver.me/5FmSXxip)
 - A조 (김리예, 조범희, 김성율)
 - B조 (김민희, 이수정, 김재찬)
