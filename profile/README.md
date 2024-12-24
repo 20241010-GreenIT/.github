@@ -37,24 +37,27 @@
 - [Flutter](https://github.com/20241010-GreenIT/Flutter)
 
 ### 💬 참고 사이트 (Ctrl 클릭하면 새 창으로 열 수 있습니다.)
-<ul>
-  <ul>
-    FrontEnd
-    <li>[w3schools (IT 튜토리얼 사이트)](https://www.w3schools.com/)</li>
-    <li>[MDN Web Docs (웹 개발자 안내서)](https://developer.mozilla.org/ko/)</li>
-    <li>[codingEveryBody (프론트 학습 사이트)](https://codingeverybody.kr/)</li>
-    <li>[Emmet (에밋 활용 안내서)](https://docs.emmet.io/abbreviations/syntax/)</li>
-    <li>[Regex Generator (정규식 생성 사이트)](https://regex-generator.olafneumann.org/)</li>
-  </ul>
-  <ul>
-    BackEnd
-    <li>[mockaroo (데이터베이스 샘플 데이터 생성 사이트)](https://mockaroo.com/)</li>
-    <li>[Logback (로그백 공식 사이트)](https://logback.qos.ch/manual/index.html/)</li>
-  </ul>
-  <ul>
-    Document
-    <li>[Markdown (마크다운 튜토리얼 사이트)](https://www.markdowntutorial.com/kr/)</li>
-  </ul>
+<ul type="disc">
+  <li>FrontEnd
+    <ul>
+      <li>[w3schools (IT 튜토리얼 사이트)](https://www.w3schools.com/)</li>
+      <li>[MDN Web Docs (웹 개발자 안내서)](https://developer.mozilla.org/ko/)</li>
+      <li>[codingEveryBody (프론트 학습 사이트)](https://codingeverybody.kr/)</li>
+      <li>[Emmet (에밋 활용 안내서)](https://docs.emmet.io/abbreviations/syntax/)</li>
+      <li>[Regex Generator (정규식 생성 사이트)](https://regex-generator.olafneumann.org/)</li>
+    </ul>
+  </li>
+  <li>BackEnd
+    <ul>
+      <li>[mockaroo (데이터베이스 샘플 데이터 생성 사이트)](https://mockaroo.com/)</li>
+      <li>[Logback (로그백 공식 사이트)](https://logback.qos.ch/manual/index.html/)</li>
+    </ul>
+  </li>
+  <li>Etc
+    <ul>
+      <li>[Markdown (마크다운 튜토리얼 사이트)](https://www.markdowntutorial.com/kr/)</li>
+    </ul>
+  </li>
 </ul>
 - [w3schools (IT 튜토리얼 사이트)](https://www.w3schools.com/)
 - [MDN Web Docs (웹 개발자 안내서)](https://developer.mozilla.org/ko/)
