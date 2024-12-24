@@ -51,7 +51,7 @@
     <ul>
       <li><a href="https://mockaroo.com/">mockaroo (데이터베이스 샘플 데이터 생성 사이트)</a></li>
       <li><a href="https://docs.spring.io/spring-framework/docs/5.3.39/reference/html/">Spring docs 5.3.9 (스프링 공식 사이트)</a></li>
-      <li><a href="https://logback.qos.ch/manual/index.html/">Logback docs (로그백 공식 사이트)</a></li>
+      <li><a href="https://logback.qos.ch/manual/index.html">Logback docs (로그백 공식 사이트)</a></li>
     </ul>
   </li>
   <li>Etc
