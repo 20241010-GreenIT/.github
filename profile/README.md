@@ -37,6 +37,25 @@
 - [Flutter](https://github.com/20241010-GreenIT/Flutter)
 
 ### 💬 참고 사이트 (Ctrl 클릭하면 새 창으로 열 수 있습니다.)
+<ul>
+  <ul>
+    FrontEnd
+    <li>[w3schools (IT 튜토리얼 사이트)](https://www.w3schools.com/)</li>
+    <li>[MDN Web Docs (웹 개발자 안내서)](https://developer.mozilla.org/ko/)</li>
+    <li>[codingEveryBody (프론트 학습 사이트)](https://codingeverybody.kr/)</li>
+    <li>[Emmet (에밋 활용 안내서)](https://docs.emmet.io/abbreviations/syntax/)</li>
+    <li>[Regex Generator (정규식 생성 사이트)](https://regex-generator.olafneumann.org/)</li>
+  </ul>
+  <ul>
+    BackEnd
+    <li>[mockaroo (데이터베이스 샘플 데이터 생성 사이트)](https://mockaroo.com/)</li>
+    <li>[Logback (로그백 공식 사이트)](https://logback.qos.ch/manual/index.html/)</li>
+  </ul>
+  <ul>
+    Document
+    <li>[Markdown (마크다운 튜토리얼 사이트)](https://www.markdowntutorial.com/kr/)</li>
+  </ul>
+</ul>
 - [w3schools (IT 튜토리얼 사이트)](https://www.w3schools.com/)
 - [MDN Web Docs (웹 개발자 안내서)](https://developer.mozilla.org/ko/)
 - [codingEveryBody (프론트 학습 사이트)](https://codingeverybody.kr/)
@@ -62,6 +81,7 @@
 
 ### 🤝Semi-Project
 - [공통구현사항](http://naver.me/5FmSXxip)
+- [플젝진행순서](http://naver.me/xWTn3LAJ)
 - [ERD작성툴](https://www.erdcloud.com/)
 - A조 (김리예, 조범희, 김성율)
 - B조 (김민희, 이수정, 김재찬)
