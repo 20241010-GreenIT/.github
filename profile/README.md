@@ -40,23 +40,23 @@
 <ul type="disc">
   <li>FrontEnd
     <ul>
-      <li>[w3schools (IT 튜토리얼 사이트)](https://www.w3schools.com/)</li>
-      <li>[MDN Web Docs (웹 개발자 안내서)](https://developer.mozilla.org/ko/)</li>
-      <li>[codingEveryBody (프론트 학습 사이트)](https://codingeverybody.kr/)</li>
-      <li>[Emmet (에밋 활용 안내서)](https://docs.emmet.io/abbreviations/syntax/)</li>
-      <li>[Regex Generator (정규식 생성 사이트)](https://regex-generator.olafneumann.org/)</li>
+      <li>w3schools (IT 튜토리얼 사이트)(https://www.w3schools.com/)</li>
+      <li>MDN Web Docs (웹 개발자 안내서)(https://developer.mozilla.org/ko/)</li>
+      <li>codingEveryBody (프론트 학습 사이트)(https://codingeverybody.kr/)</li>
+      <li>Emmet (에밋 활용 안내서)(https://docs.emmet.io/abbreviations/syntax/)</li>
+      <li>Regex Generator (정규식 생성 사이트)(https://regex-generator.olafneumann.org/)</li>
     </ul>
   </li>
   <li>BackEnd
     <ul>
-      <li>[mockaroo (데이터베이스 샘플 데이터 생성 사이트)](https://mockaroo.com/)</li>
-      <li>[Spring docs 5.3.9 (스프링 공식 사이트)](https://docs.spring.io/spring-framework/docs/5.3.39/reference/html/)
-      <li>[Logback docs (로그백 공식 사이트)](https://logback.qos.ch/manual/index.html/)</li>
+      <li>mockaroo (데이터베이스 샘플 데이터 생성 사이트)(https://mockaroo.com/)</li>
+      <li>Spring docs 5.3.9 (스프링 공식 사이트)(https://docs.spring.io/spring-framework/docs/5.3.39/reference/html/)
+      <li>Logback docs (로그백 공식 사이트)(https://logback.qos.ch/manual/index.html/)</li>
     </ul>
   </li>
   <li>Etc
     <ul>
-      <li>[Markdown (마크다운 튜토리얼 사이트)](https://www.markdowntutorial.com/kr/)</li>
+      <li>Markdown (마크다운 튜토리얼 사이트)(https://www.markdowntutorial.com/kr/)</li>
     </ul>
   </li>
 </ul>
