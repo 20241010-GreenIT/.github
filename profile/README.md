@@ -57,7 +57,7 @@
   <li>Etc
     <ul>
       <li><a href="https://www.markdowntutorial.com/kr/">Markdown (마크다운 튜토리얼 사이트)</a></li>
-      <li><a href="https://whimsical.com/>Whimsical (플로우차트, 다이어그램 쉽게 그리기)</a></li>
+      <li><a href="https://whimsical.com/">Whimsical (플로우차트, 다이어그램 쉽게 그리기)</a></li>
     </ul>
   </li>
 </ul>
