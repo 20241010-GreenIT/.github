@@ -30,7 +30,6 @@
 - [SpringBoot](https://github.com/20241010-GreenIT/SpringBoot)
 - [React](https://github.com/20241010-GreenIT/React)
 - [Docker](https://github.com/20241010-GreenIT/Docker)
-- [AWS](https://github.com/20241010-GreenIT/AWS)
 - [Git](https://github.com/20241010-GreenIT/Git)
 - [AI](https://github.com/20241010-GreenIT/AI)
 - [ReactNative](https://github.com/20241010-GreenIT/ReactNative)
