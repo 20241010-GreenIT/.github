@@ -72,7 +72,6 @@
 - [SpringFramework 다운로드](https://github.com/20241010-GreenIT/pdf/blob/main/Spring_PDF.zip)
 - [LinuxPDF]()
 - [DockerPDF]()
-- [AwsPDF]()
 
 ### 🤝Semi-Project
 - [공통구현사항](http://naver.me/5FmSXxip)
