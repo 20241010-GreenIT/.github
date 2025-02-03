@@ -32,7 +32,7 @@
 - [Docker](https://github.com/20241010-GreenIT/Docker)
 - [Git](https://github.com/20241010-GreenIT/Git)
 - [AI](https://github.com/20241010-GreenIT/AI)
-- [ReactNative](https://github.com/20241010-GreenIT/ReactNative)
+- [CICD](https://github.com/20241010-GreenIT/CICD)
 - [Flutter](https://github.com/20241010-GreenIT/Flutter)
 
 ### 💬 참고 사이트 (Ctrl 클릭하면 새 창으로 열 수 있습니다.)
