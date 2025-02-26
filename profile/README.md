@@ -65,7 +65,7 @@
 - [네이버 Box](http://naver.me/xa5pOFZz)
 
 ### 🧷 학습 PDF
-- [GitPDF]()
+- [Git_PDF 다운로드](https://github.com/20241010-GreenIT/pdf/blob/main/Git_PDF.zip)
 - [Java_PDF 다운로드](https://github.com/20241010-GreenIT/pdf/blob/main/Java_PDF.zip)
 - [Lombok_PDF 다운로드](https://github.com/20241010-GreenIT/pdf/blob/main/Lombok_PDF.pdf)
 - [MySQL_PDF 다운로드](https://github.com/20241010-GreenIT/pdf/blob/main/MySQL_PDF.zip)
