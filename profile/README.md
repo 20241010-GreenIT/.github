@@ -66,11 +66,11 @@
 
 ### 🧷 학습 PDF
 - [GitPDF]()
-- [JavaPDF 다운로드](https://github.com/20241010-GreenIT/pdf/blob/main/Java_PDF.zip)
-- [LombokPDF 다운로드](https://github.com/20241010-GreenIT/pdf/blob/main/Lombok_PDF.pdf)
-- [MySQLPDF 다운로드](https://github.com/20241010-GreenIT/pdf/blob/main/MySQL_PDF.zip)
-- [SpringPDF 다운로드](https://github.com/20241010-GreenIT/pdf/blob/main/Spring_PDF.zip)
-- [DevOpsPDF(Linux/Docker) 다운로드](https://github.com/20241010-GreenIT/pdf/blob/main/DevOps_PDF.zip)
+- [Java_PDF 다운로드](https://github.com/20241010-GreenIT/pdf/blob/main/Java_PDF.zip)
+- [Lombok_PDF 다운로드](https://github.com/20241010-GreenIT/pdf/blob/main/Lombok_PDF.pdf)
+- [MySQL_PDF 다운로드](https://github.com/20241010-GreenIT/pdf/blob/main/MySQL_PDF.zip)
+- [Spring_PDF 다운로드](https://github.com/20241010-GreenIT/pdf/blob/main/Spring_PDF.zip)
+- [DevOps_PDF(Linux/Docker) 다운로드](https://github.com/20241010-GreenIT/pdf/blob/main/DevOps_PDF.zip)
 
 ### 🤝Semi-Project
 - [공통구현사항](http://naver.me/5FmSXxip)
