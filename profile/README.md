@@ -67,11 +67,10 @@
 ### 🧷 학습 PDF
 - [GitPDF]()
 - [JavaPDF 다운로드](https://github.com/20241010-GreenIT/pdf/blob/main/Java_PDF.zip)
-- [LombokPDF 다운로드](https://github.com/20241010-GreenIT/pdf/blob/main/Lombok.pdf)
-- [MySQL 다운로드](https://github.com/20241010-GreenIT/pdf/blob/main/MySQL_PDF.zip)
-- [SpringFramework 다운로드](https://github.com/20241010-GreenIT/pdf/blob/main/Spring_PDF.zip)
-- [LinuxPDF]()
-- [DockerPDF]()
+- [LombokPDF 다운로드](https://github.com/20241010-GreenIT/pdf/blob/main/Lombok_PDF.pdf)
+- [MySQLPDF 다운로드](https://github.com/20241010-GreenIT/pdf/blob/main/MySQL_PDF.zip)
+- [SpringPDF 다운로드](https://github.com/20241010-GreenIT/pdf/blob/main/Spring_PDF.zip)
+- [DevOpsPDF(Linux/Docker) 다운로드](https://github.com/20241010-GreenIT/pdf/blob/main/DevOps_PDF.zip)
 
 ### 🤝Semi-Project
 - [공통구현사항](http://naver.me/5FmSXxip)
@@ -79,3 +78,7 @@
 - [ERD작성툴](https://www.erdcloud.com/)
 - A조 (김리예, 조범희, 김성율)
 - B조 (김민희, 이수정, 김재찬)
+
+### 🤝Final-Project
+- 산출물
+- AWS 배포
