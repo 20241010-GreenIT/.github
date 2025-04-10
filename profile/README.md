@@ -71,6 +71,7 @@
 - [MySQL_PDF 다운로드](https://github.com/20241010-GreenIT/pdf/blob/main/MySQL_PDF.zip)
 - [Spring_PDF 다운로드](https://github.com/20241010-GreenIT/pdf/blob/main/Spring_PDF.zip)
 - [DevOps_PDF(Linux/Docker) 다운로드](https://github.com/20241010-GreenIT/pdf/blob/main/DevOps_PDF.zip)
+- [Spring Boot PDF 다운로드](https://github.com/20241010-GreenIT/pdf/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8%EA%B5%90%EC%95%88.pdf)
 
 ### 🤝Semi-Project
 - [공통구현사항](http://naver.me/5FmSXxip)
